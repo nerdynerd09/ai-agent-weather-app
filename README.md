@@ -8,7 +8,7 @@ In order to use this run the program using command
 
 **Prompts Examples:**
 
-` 1. What is the weather of Lucknow?
-  2. What is the weather of Delhi?
-  3. What is the sum and difference in weather of delhi and lucknow?
-`
+ - What is the weather of Lucknow?
+ - What is the weather of Delhi?
+ - What is the sum and difference in weather of delhi and lucknow?
+ 
